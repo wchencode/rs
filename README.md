@@ -1,0 +1,4 @@
+rs
+==
+
+Reed Solomon encoding
